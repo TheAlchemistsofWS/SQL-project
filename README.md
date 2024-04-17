@@ -18,11 +18,11 @@
 
 Изобразим концептуальную модель
 
-![Концептуальная модель](docs/airbnb conceptual model.png)
+![Концептуальная модель](docs/airbnb_conceptual_model.png)
 
 Изобразим теперь логическую модель
 
-![Логическая модель](SQL-project/docs/airbnb-logical-model.png)
+![Логическая модель](docs/airbnb-logical-model.png)
 
 ---
 БД имеет 3 НФ
