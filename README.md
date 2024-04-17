@@ -22,7 +22,7 @@
 
 Изобразим теперь логическую модель
 
-![Логическая модель](airbnb-logical-model.png)
+![Логическая модель](SQL-project/docs/airbnb-logical-model.png)
 
 ---
 БД имеет 3 НФ
